@@ -41,7 +41,7 @@ url_pdf: https://www.mdpi.com/2673-7426/4/1/16
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: **Ping Lu**
+  caption: 'Image credit: **Ping Lu**'
   focal_point: ""
   preview_only: false
 
