@@ -142,7 +142,7 @@ sections:
       view: compact
 
   - block: collection
-     content:
+    content:
       title: Teaching
     design:
        columns: '2'  
