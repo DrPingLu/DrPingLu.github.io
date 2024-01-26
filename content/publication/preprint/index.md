@@ -1,11 +1,11 @@
 ---
-title: "Improving Classification of Tetanus Severity for Patients in Low-Middle Income Countries Wearing ECG Sensors by Using a CNN-Transformer Network"
+title: "Tetanus Severity Classification in Low-Middle Income Countries through ECG Wearable Sensors and a 1D-Vision Transformer"
 authors:
 - admin 
 
 
 
-date: "2022-10-21"
+date: "2024-01-19"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +17,11 @@ publishDate: "2024-01-26T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Biomedical Engineering*"
+publication: "*BioMedInformatics*"
 publication_short: ""
 
-abstract: Tetanus is a life-threatening infectious disease, which is still common in low- and middle-income countries, including in Vietnam. This disease is characterized by muscle spasm and in severe cases is complicated by autonomic dysfunction. Ideally continuous vital sign monitoring using bedside monitors allows the prompt detection of the onset of autonomic nervous system dysfunction or avoiding rapid deterioration. Detection can be improved using heart rate variability analysis from ECG signals. Recently, characteristic ECG and heart rate variability features have been shown to be of value in classifying tetanus severity. However, conventional manual analysis of ECG is time-consuming. The traditional convolutional neural network (CNN) has limitations in extracting the global context information, due to its fixed-sized kernel filters. In this work, we propose a novel hybrid CNN-Transformer model to automatically classify tetanus severity using tetanus monitoring from low-cost wearable sensors. This model can capture the local features from the CNN and the global features from the Transformer. The time series imaging - spectrogram - is transformed from one-dimensional ECG signal and input to the proposed model. The CNN-Transformer model outperforms state-of-the-art methods in tetanus classification, achieves results with a F1 score of 0.82±0.03 , precision of 0.94±0.03 , recall of 0.73±0.07 , specificity of 0.97±0.02 , accuracy of 0.88±0.01 and AUC of 0.85±0.03 . In addition, we found that Random Forest with enough manually selected features can be comparable with the proposed CNN-Transformer model.
+abstract: Tetanus, a life-threatening bacterial infection prevalent in low- and middle-income countries like Vietnam, impacts the nervous system, causing muscle stiffness and spasms. Severe tetanus often involves dysfunction of the autonomic nervous system (ANS). Timely detection and effective ANS dysfunction management require continuous vital sign monitoring, traditionally performed using bedside monitors. However, wearable electrocardiogram (ECG) sensors offer a more cost-effective and user-friendly alternative. While machine learning-based ECG analysis can aid in tetanus severity classification, existing methods are excessively time-consuming. Our previous studies have investigated the improvement of tetanus severity classification using ECG time series imaging. In this study, our aim is to explore an alternative method using ECG data without relying on time series imaging as an input, with the aim of achieving comparable or improved performance. To address this, we propose a novel approach using a 1D-Vision Transformer, a pioneering method for classifying tetanus severity by extracting crucial global information from 1D ECG signals. Compared to 1D-CNN, 2D-CNN, and 2D-CNN + Dual Attention, our model achieves better results, boasting an F1 score of 0.77 ± 0.06, precision of 0.70 ± 0. 09, recall of 0.89 ± 0.13, specificity of 0.78 ± 0.12, accuracy of 0.82 ± 0.06 and AUC of 0.84 ± 0.05.
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -31,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926154' 
+url_pdf: 'https://www.mdpi.com/2673-7426/4/1/16'
 # url_code: ''
 #url_dataset: ''
 #url_poster: ''
