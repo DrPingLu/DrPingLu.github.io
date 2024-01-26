@@ -1,5 +1,5 @@
 ---
-title: Can AI help diagnose infectious diseases with cheap wearable monitor? 
+title: Can AI help diagnose infectious diseases with a cheap wearable monitor? 
 event: "Spotlight: Illuminating Engineering (TED-Talk style event, Department of Engineering Science | University of Oxford)"
 event_url: https://oldfirestation.org.uk/whats-on/spotlight-illuminating-engineering/
 
