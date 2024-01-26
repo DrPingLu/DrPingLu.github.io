@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: '2D-WinSpatt-Net: A Dual Spatial Self-Attention Vision Transformer Boosts Classification of Tetanus Severity for Patients Wearing ECG Sensors in Low-and Middle-Income Countries'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,25 +13,25 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2023-09-06'
+doi: 'https://doi.org/10.3390/s23187705'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-01-26T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Sensors*
+#publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Tetanus is a life-threatening bacterial infection that is often prevalent in low- and middle-income countries (LMIC), Vietnam included. Tetanus affects the nervous system, leading to muscle stiffness and spasms. Moreover, severe tetanus is associated with autonomic nervous system (ANS) dysfunction. To ensure early detection and effective management of ANS dysfunction, patients require continuous monitoring of vital signs using bedside monitors. Wearable electrocardiogram (ECG) sensors offer a more cost-effective and user-friendly alternative to bedside monitors. Machine learning-based ECG analysis can be a valuable resource for classifying tetanus severity; however, using existing ECG signal analysis is excessively time-consuming. Due to the fixed-sized kernel filters used in traditional convolutional neural networks (CNNs), they are limited in their ability to capture global context information. In this work, we propose a 2D-WinSpatt-Net, which is a novel Vision Transformer that contains both local spatial window self-attention and global spatial self-attention mechanisms. The 2D-WinSpatt-Net boosts the classification of tetanus severity in intensive-care settings for LMIC using wearable ECG sensors. The time series imaging—continuous wavelet transforms—is transformed from a one-dimensional ECG signal and input to the proposed 2D-WinSpatt-Net. In the classification of tetanus severity levels, 2D-WinSpatt-Net surpasses state-of-the-art methods in terms of performance and accuracy. It achieves remarkable results with an F1 score of 0.88 ± 0.00, precision of 0.92 ± 0.02, recall of 0.85 ± 0.01, specificity of 0.96 ± 0.01, accuracy of 0.93 ± 0.02 and AUC of 0.90 ± 0.00.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -43,14 +43,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://www.mdpi.com/1424-8220/23/18/7705/pdf'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
