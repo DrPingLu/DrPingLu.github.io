@@ -14,13 +14,13 @@ publishDate: "2026-01-26T00:00:00Z"
 publication_types: ["journal-article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "BioMedInformatics"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Tetanus, a life-threatening bacterial infection prevalent in low- and middle-income countries like Vietnam, impacts the nervous system, causing muscle stiffness and spasms. Severe tetanus often involves dysfunction of the autonomic nervous system (ANS). Timely detection and effective ANS dysfunction management require continuous vital sign monitoring, traditionally performed using bedside monitors. However, wearable electrocardiogram (ECG) sensors offer a more cost-effective and user-friendly alternative. While machine learning-based ECG analysis can aid in tetanus severity classification, existing methods are excessively time-consuming. Our previous studies have investigated the improvement of tetanus severity classification using ECG time series imaging. In this study, our aim is to explore an alternative method using ECG data without relying on time series imaging as an input, with the aim of achieving comparable or improved performance. To address this, we propose a novel approach using a 1D-Vision Transformer, a pioneering method for classifying tetanus severity by extracting crucial global information from 1D ECG signals. Compared to 1D-CNN, 2D-CNN, and 2D-CNN + Dual Attention, our model achieves better results, boasting an F1 score of 0.77 ± 0.06, precision of 0.70 ± 0. 09, recall of 0.89 ± 0.13, specificity of 0.78 ± 0.12, accuracy of 0.82 ± 0.06 and AUC of 0.84 ± 0.05.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  We use a one-dimensional transformer model to classify the severity of the infectious disease tetanus using single-lead wearable ECG sensors. We elucidate the complex relationship between the ECG signal and the decision-making process of our AI model by analysing attention scores. These scores reveal the varying degrees of influence exerted by different parts of the signal through different weights.
 
 tags:
 - Source Themes
