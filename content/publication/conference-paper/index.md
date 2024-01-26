@@ -14,9 +14,9 @@ authors:
   - David A. Clifton
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+# - 'Equal contribution'
+# - 'Equal contribution'
 
 date: '2023-09-06'
 doi: 'https://doi.org/10.3390/s23187705'
