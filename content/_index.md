@@ -140,6 +140,12 @@ sections:
     design:
       columns: '2'
       view: compact
+
+  - block: collection
+     content:
+      title: Teaching
+    design:
+       columns: '2'  
   
   - block: contact
     id: contact
