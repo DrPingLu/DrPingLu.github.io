@@ -1,16 +1,15 @@
 ---
-title: Example Talk
+title: Can AI help diagnose infectious diseases with cheap wearable monitor? 
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Spotlight: Illuminating Engineering (TED-Talk style event, Department of Engineering Science | University of Oxford)
+event_url: https://oldfirestation.org.uk/whats-on/spotlight-illuminating-engineering/
 
-location: Hugo Blox Builder HQ
+location: Old Fire Station
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 40 George St
+  city:  Oxford 
+  postcode: 'OX1 2AQ'
+  country: United Kingdom
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
