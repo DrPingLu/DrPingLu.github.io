@@ -8,7 +8,7 @@ location: Old Fire Station
 address:
   street: 40 George St
   city:  Oxford 
-  postcode: 'OX1 2AQ'
+  postcode: 'OX1 2AQ' 
   country: United Kingdom
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
