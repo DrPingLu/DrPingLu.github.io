@@ -43,7 +43,7 @@ url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926154'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Ping Lu**]' #(https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: **Ping Lu**' #(https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
