@@ -1,8 +1,8 @@
 ---
 title: "Improving Classification of Tetanus Severity for Patients in Low-Middle Income Countries Wearing ECG Sensors by Using a CNN-Transformer Network"
 authors:
-- admin
-- "et al."
+- admin et al.
+
 
 
 date: "2022-10-21"
