@@ -1,5 +1,5 @@
 ---
-title: Advanced Medical Image Analysis of the Human Facial Nerve based on Machine Learning Technologies
+title: Advanced Medical Image Analysis of the Human Facial Nerve Based on Machine Learning Technologies
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
   - Demo
