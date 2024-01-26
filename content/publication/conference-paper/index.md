@@ -6,7 +6,12 @@ title: '2D-WinSpatt-Net: A Dual Spatial Self-Attention Vision Transformer Boosts
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Andrew P. Creagh
+  - Huiqi Y. Lu
+  - Ho Bich Hai
+  - VITAL Consortium
+  - Louise Thwaites
+  - David A. Clifton
 
 # Author notes (optional)
 author_notes:
@@ -55,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Ping Lu**] #(https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: **Ping Lu**' #(https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
