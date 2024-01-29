@@ -87,7 +87,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Wearables
+        - name: Deep Learning
           tag: Deep Learning
         - name: Medical Imaging
           tag: Demo
