@@ -88,9 +88,9 @@ sections:
         - name: All
           tag: '*'
         - name: Medical Imaging
-          tag: Deep Learning
-        - name: Wearables
           tag: Demo
+        - name: Wearables
+          tag: Medical Imaging
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
