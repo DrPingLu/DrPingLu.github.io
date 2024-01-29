@@ -9,7 +9,7 @@ date: '2017-05-18T00:00:00Z'
 external_link: 'http://www.nanotera.ch/projects/362.php#desc'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
