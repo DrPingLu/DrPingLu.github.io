@@ -2,11 +2,11 @@
 title: Advanced Medical Image Analysis of the Human Facial Nerve Based on Machine Learning Technologies
 summary: Cochlear implantation offers hope to those with severe to profound sensorineural hearing loss, using advanced microsurgical techniques to minimise trauma and protect critical structures such as the facial nerve. The development of CT-based image analysis and super-resolution strategies is improving the accuracy of facial nerve segmentation, which is critical for personalised planning in image-guided robotic systems and promises highly accurate results in cochlear implantation.
 tags:
-  - Deep Learning
+  - Medical Imaging
 date: '2017-05-18T00:00:00Z'
 
-# Optional external URL for project (replaces project detail page).
-# external_link: 'http://www.nanotera.ch/projects/362.php#desc'
+# Optional external URL for project (replaces project detail page). 
+external_link: 'http://www.nanotera.ch/projects/362.php#desc'
 
 image:
   caption: 
