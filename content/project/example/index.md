@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Advanced Medical Image Analysis of the Human Facial Nerve Based on Machine Learning Technologies
+summary: Facial nerve segmentation for surgical planning of robotic cochlear implantation
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2017-05-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
