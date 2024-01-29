@@ -1,6 +1,6 @@
 ---
 title: Advanced Medical Image Analysis of the Human Facial Nerve Based on Machine Learning Technologies
-summary: Facial nerve segmentation for surgical planning of robotic cochlear implantation
+summary: Cochlear implantation offers hope to those with severe to profound sensorineural hearing loss, using advanced microsurgical techniques to minimise trauma and protect critical structures such as the facial nerve. The development of CT-based image analysis and super-resolution strategies is improving the accuracy of facial nerve segmentation, which is critical for personalised planning in image-guided robotic systems and promises highly accurate results in cochlear implantation.
 tags:
   - Deep Learning
 date: '2017-05-18T00:00:00Z'
