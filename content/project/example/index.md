@@ -6,7 +6,7 @@ tags:
 date: '2017-05-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'http://www.nanotera.ch/projects/362.php#desc'
 
 image:
   caption: Photo by rawpixel on Unsplash
