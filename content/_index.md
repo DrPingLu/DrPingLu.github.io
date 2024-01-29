@@ -87,10 +87,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Wearables 
-          tag: Demo
         - name: Medical Imaging
           tag: Medical Imaging
+        - name: Wearables 
+          tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
