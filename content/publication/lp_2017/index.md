@@ -1,26 +1,26 @@
 ---
-title: "Improving Classification of Tetanus Severity for Patients in Low-Middle Income Countries Wearing ECG Sensors by Using a CNN-Transformer Network"
+title: "Dynamic spatio-temporal graph convolutional networks for cardiac motion analysis"
 authors:
 - admin 
 
 
 
-date: "2022-10-21"
+date: "2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-01-26T00:00:00Z"
+publishDate: "2024-01-29T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Biomedical Engineering*"
+publication: "*2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)*"
 publication_short: ""
 
-abstract: Tetanus is a life-threatening infectious disease, which is still common in low- and middle-income countries, including in Vietnam. This disease is characterized by muscle spasm and in severe cases is complicated by autonomic dysfunction. Ideally continuous vital sign monitoring using bedside monitors allows the prompt detection of the onset of autonomic nervous system dysfunction or avoiding rapid deterioration. Detection can be improved using heart rate variability analysis from ECG signals. Recently, characteristic ECG and heart rate variability features have been shown to be of value in classifying tetanus severity. However, conventional manual analysis of ECG is time-consuming. The traditional convolutional neural network (CNN) has limitations in extracting the global context information, due to its fixed-sized kernel filters. In this work, we propose a novel hybrid CNN-Transformer model to automatically classify tetanus severity using tetanus monitoring from low-cost wearable sensors. This model can capture the local features from the CNN and the global features from the Transformer. The time series imaging - spectrogram - is transformed from one-dimensional ECG signal and input to the proposed model. The CNN-Transformer model outperforms state-of-the-art methods in tetanus classification, achieves results with a F1 score of 0.82±0.03 , precision of 0.94±0.03 , recall of 0.73±0.07 , specificity of 0.97±0.02 , accuracy of 0.88±0.01 and AUC of 0.85±0.03 . In addition, we found that Random Forest with enough manually selected features can be comparable with the proposed CNN-Transformer model.
+abstract: We propose a dynamic spatio-temporal graph convolutional network (DST-GCN) approach to learn the left ventricular (LV) motion patterns from cardiac MR cine images. We represent the myocardial geometry using a graph that is constructed from sample nodes on endo- and epicardial contours. The DST-GCN follows an encoder-decoder framework. The encoder accepts a given cardiac motion represented by a sequence of ST-GCN. The decoder employs a graph-based gated recurrent unit (G-GRU) to predict future cardiac motion. We show that the DST-GCN can automatically quantify the spatio-temporal patterns in cardiac MR that characterise cardiac motion. Experiments are performed on the UK Biobank dataset. We compare four methods from two architecture variances. Experiments show that the proposed method inputting node velocities with residual connection in the decoder outperform others, and achieves a mean squared error of 0.135 pixel between the ground truth node locations and our prediction.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926154' 
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9433890?casa_token=eEipFeM73qwAAAAA:HKp7a8duoq4xcLM9Til_pAPHc1UFktJpYWMxQCQAwOZPQLm5swDwxCOYCRkEsz1lerQJLWY' 
 # url_code: ''
 #url_dataset: ''
 #url_poster: ''
