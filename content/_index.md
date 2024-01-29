@@ -88,7 +88,7 @@ sections:
         - name: All
           tag: '*'
         - name: Medical Imaging
-          tag: Medical Imaging
+          tag: deep learning
         - name: Wearables
           tag: Demo
     design:
