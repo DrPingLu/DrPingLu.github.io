@@ -1,6 +1,8 @@
 ---
-title: Advanced Medical Image Analysis of the Human Facial Nerve Based on Machine Learning Technologies
-summary: An example of linking directly to an external project website using `external_link`.
+title: AI-Enabled Diagnosis of Infectious Diseases Using Affordable Wearable ECG in Low- and Middle-Income Countries
+summary: 
+
+#  An example of linking directly to an external project website using `external_link`.
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
