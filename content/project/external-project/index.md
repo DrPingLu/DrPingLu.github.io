@@ -1,22 +1,5 @@
-#---
-#title: AI-Enabled Diagnosis of Infectious Diseases Using Affordable Wearable ECG in Low- and Middle-Income Countries
-#summary: 
-
-#  An example of linking directly to an external project website using `external_link`.
-#tags:
-#  - Demo
-#date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-#external_link: https://www.cascination.com/en/hearo
-#image:
-#  caption: Photo by Toa Heftiba on Unsplash
-#  focal_point: Smart
-#---
-
----
-title: Cardiac Motion Analysis
-summary: The motion patterns of healthy and unhealthy hearts differ significantly over time. Unhealthy hearts have a motion similar to a balloon losing its elasticity. By recognising these spatio-temporal patterns in heart movement, doctors can identify unhealthy patterns and provide more effective treatment for patients.
+title: AI-Enabled Diagnosis of Infectious Diseases Using Affordable Wearable ECG in Low- and Middle-Income Countries
+summary: 
 
 tags:
   - Medical Imaging
