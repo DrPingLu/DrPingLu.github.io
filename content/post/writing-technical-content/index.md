@@ -14,22 +14,7 @@ image:
 ### Paper B18: Biomedical Modelling and Monitoring (2023-present)
 Cellular Physiology, Systems Physiology, Wearable Technology, Medical Imaging
 
-### Icons
+### Paper B14: Information Engineering Systems (2022-2023)
+Image Processing, Signal Analysis, Estimation, Inference
 
-Academic enables you to use a wide range of [icons from _Font Awesome_ and _Academicons_](https://docs.hugoblox.com/getting-started/page-builder/#icons) in addition to [emojis](https://docs.hugoblox.com/content/writing-markdown-latex/#emojis).
-
-Here are some examples using the `icon` shortcode to render icons:
-
-```markdown
-{{</* icon name="terminal" pack="fas" */>}} Terminal  
-{{</* icon name="python" pack="fab" */>}} Python  
-{{</* icon name="r-project" pack="fab" */>}} R
-```
-
-renders as
-
-{{< icon name="terminal" pack="fas" >}} Terminal  
-{{< icon name="python" pack="fab" >}} Python  
-{{< icon name="r-project" pack="fab" >}} R
-
-### Did you find this page helpful? Consider sharing it 🙌
+Information Engineering Laboratory (2022-present)
