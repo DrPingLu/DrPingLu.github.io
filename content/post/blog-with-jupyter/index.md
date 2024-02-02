@@ -1,6 +1,6 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
+title: Mentor in Oxford Women in Engineering, Science, and Technology (University of Oxford)
+date: '2024-02-02'
 summary: Easily blog from Jupyter notebooks!
 ---
 
