@@ -8,7 +8,7 @@ image:
 ---
 
 
-## Examples
+## Third-Year Undergraduate Course
 
 
 ### Paper B18: Biomedical Modelling and Monitoring (2023-present)
