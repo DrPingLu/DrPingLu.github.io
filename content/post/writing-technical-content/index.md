@@ -10,7 +10,16 @@ image:
 
 ## Third-Year Undergraduate Course
 
-
+### Paper B16: Software Engineering Laboratory (2024-present)
+The purpose of this laboratory is to familiarise the student with the practical aspects of computer programming in C++, as well as to consolidate through practice the material taught in the other parts
+of B16: object-oriented programming, data structures, and algorithms. Throughout this practical, the student will: learn to use an integrated development environment to compile C++ programs; design a program structure; then implement and debug the program.
+Learning Outcomes:
+1. Learn to use modern software development tools and integrated development environments.
+2. Understand through practice fundamental structured programming notions: types, variables, control flow, functions.
+3. Consolidate object-oriented programming skills: classes, constructors and destructors, and class hierarchies.
+4. Learn to debug code using an integrated debugger.
+5. Learn to use third-party libraries in your development.
+   
 ### Paper B18: Biomedical Modelling and Monitoring (2023-present)
 Cellular Physiology, Systems Physiology, Wearable Technology, Medical Imaging
 
